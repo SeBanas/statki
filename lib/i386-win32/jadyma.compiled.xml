@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="E:\Lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1195613038"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\Dell\Documents\Lazarus\lib\i386-win32 -FuC:\Users\Dell\Documents\Lazarus\ -FUC:\Users\Dell\Documents\Lazarus\lib\i386-win32\ jadyma.lpr"/>
+</CONFIG>
